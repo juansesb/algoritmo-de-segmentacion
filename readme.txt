@@ -1,0 +1,3 @@
+Instruciones:
+para correr el codigo es necesario abrir el archivo.mat llamado step8, que se cargue en el workspace la base de datos INbreast y setup openbreast. Para separar la base de datos en training, test o full es necesario que la base de datos INbreast cargada en el workspace tenga por nombre dataset o en su defecto cambiar su nombre por el cargado en el workspace en el step8 en las lineas [26-29] y [41-44]. Al correr el codigo pide el ingreso de un digito del 1 al 3 siendo 1 la prueba para la base de datos de entranamiento, 2 la prueba del test y 3 la prueba completa.
+ 
